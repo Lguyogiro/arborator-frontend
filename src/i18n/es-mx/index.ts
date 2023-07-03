@@ -40,10 +40,10 @@ export default {
       'Haz equipo y maneja el acceso a tus proyectos', //'Team up and Manage Access to your Projects',
     ],
     scroll: 'Scroll down to see more',
-    arboheadline: "Arborator's Collaborative Annotation",
-    grewheadline: "Grew's Graph Grammar",
+    arboheadline: 'Anotación Colaborativa de Arborator', //"Arborator's Collaborative Annotation",
+    grewheadline: 'Gramática Gráfica de Grew', //"Grew's Graph Grammar",
     descriptionCard: {
-      title: 'A collaborative annotation tool for treebank development',
+      title: 'Una herramienta de anotación colaborativa para el desarrollo de bancos de arboles', //'A collaborative annotation tool for treebank development',
       subtitle: "An easy to use graphic annotation interface makes it annotation the best part of a linguist's day.",
       content: [
         'Just drag a word on the other to make a dependency relation. Just click on a word to change its features. Just choose the words to make them tokens. The dependency set, the tagset, and the feature set are fully configurable. We provide ready-made configurations for',
