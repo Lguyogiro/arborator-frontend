@@ -44,10 +44,10 @@ export default {
     grewheadline: 'Gramática Gráfica de Grew', //"Grew's Graph Grammar",
     descriptionCard: {
       title: 'Una herramienta de anotación colaborativa para el desarrollo de bancos de arboles', //'A collaborative annotation tool for treebank development',
-      subtitle: "An easy to use graphic annotation interface makes it annotation the best part of a linguist's day.",
+      subtitle: 'Una interfaz gráfica de anotación fácil de usar hace que la anotación sea la mejor parte del día para un lingüista.', //"An easy to use graphic annotation interface makes it annotation the best part of a linguist's day.",
       content: [
-        'Just drag a word on the other to make a dependency relation. Just click on a word to change its features. Just choose the words to make them tokens. The dependency set, the tagset, and the feature set are fully configurable. We provide ready-made configurations for',
-        'and',
+        'Solo arrastra una palabra hacia otra para crear una relación de dependencia. Solo hazle clic en una palabra para cambiar sus características. Solo escoge las palabras para hacerlas tokens. El juego de relaciones y de las características se pueden configurar fácilmente. Ofrecemos configuraciones ya listas para', 'y', //'Just drag a word on the other to make a dependency relation. Just click on a word to change its features. Just choose the words to make them tokens. The dependency set, the tagset, and the feature set are fully configurable. We provide ready-made configurations for',
+        //'and',
       ],
       tooltipSud: 'SUD: The surface-syntactic, distribution-based version of Universal Dependencies',
       tooltipUd: 'Universal Dependencies: The amazing collaborative treebank annotation project providing 150 treebanks in 90 languages',
@@ -251,14 +251,14 @@ export default {
     shownFeaturesTokens: 'Choose the features to be shown under each token',
     shownFeaturesSentences: 'Choose the features to be shown under each sentence',
     annotationSettingsInput: 'Annotation settings',
-    annotationSettingsSave: 'Save annotation settings',
-    checkAnnotation: 'This looks like reasonable Json',
+    annotationSettingsSave: 'Guardar configuración para la anotación', //'Save annotation settings',
+    checkAnnotation: 'Este JSON se ve correcto', //'This looks like reasonable Json',
   },
   settingsPage:{
-    saveModifications: 'Save Modification',
-    firstName: 'First Name',
-    familyName: 'Last Name',
-    saveModificationMessage: 'Your personal information is updated',
+    saveModifications: 'Guardar modificaciones',//'Save Modification',
+    firstName: 'Primer nombre', //'First Name',
+    familyName: 'Apellidos', //'Last Name',
+    saveModificationMessage: 'Tu información personal ha sido actualizada', //'Your personal information is updated',
   },
   // Klang
   Klang: {
